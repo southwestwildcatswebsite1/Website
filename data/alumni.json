@@ -1,0 +1,374 @@
+{
+ "campInvites": {
+  "title": "Three former Wildcats invited to PWHL training camps",
+  "intro": "Three Wildcats alumni were invited to 2026-27 PWHL training camps as free-agent invites. Camps open November 18, 2026.",
+  "source": "https://thehockeynews.com/womens/pwhl/pwhl-unveils-all-2026-27-training-camps-rosters-see-all-12-here",
+  "sourceLabel": "The Hockey News, October 2026",
+  "players": [
+   {
+    "name": "Sarah Marchand",
+    "hometown": "Belle River, ON",
+    "camp": "Boston Fleet",
+    "path": "NCAA Division I at Syracuse and St. Lawrence, then MoDo Hockey in Sweden's SDHL."
+   },
+   {
+    "name": "Brooke Campbell",
+    "hometown": "Essex, ON",
+    "camp": "Hamilton Havoc",
+    "path": "NCAA Division I at UConn."
+   },
+   {
+    "name": "Kira Juodikis",
+    "hometown": "LaSalle, ON",
+    "camp": "Detroit Clutch",
+    "path": "Four seasons at the University of New Hampshire (NCAA Division I), captain in 2023-24 and 2024-25. Signed with the New York Sirens on April 15, 2026."
+   }
+  ]
+ },
+ "groups": [
+  {
+   "id": "d1",
+   "label": "NCAA Division I"
+  },
+  {
+   "id": "d3",
+   "label": "NCAA Division III"
+  },
+  {
+   "id": "usports",
+   "label": "U Sports"
+  }
+ ],
+ "alumni": [
+  {
+   "name": "Meghan Agosta",
+   "hometown": "Ruthven, ON",
+   "group": "d1",
+   "wildcats": "AA Windsor Wildcats, Provincial Women's Hockey League",
+   "path": "Mercyhurst. Olympic gold 2006, 2010 (tournament MVP) and 2014, silver 2018. Montreal Stars (CWHL), 2012 Clarkson Cup.",
+   "tags": [
+    "Olympian"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Meghan_Agosta",
+   "check": false
+  },
+  {
+   "name": "Sarah Marchand",
+   "hometown": "Belle River, ON",
+   "group": "d1",
+   "wildcats": "Southwest Wildcats",
+   "path": "Syracuse, then St. Lawrence (2023-24, 2024-25). MoDo Hockey, SDHL Sweden, from 2025.",
+   "tags": [
+    "Pro: Sweden",
+    "PWHL camp invite"
+   ],
+   "source": "https://saintsathletics.com/sports/womens-ice-hockey/roster/sarah-marchand/18636"
+  },
+  {
+   "name": "Kira Juodikis",
+   "hometown": "LaSalle, ON",
+   "group": "d1",
+   "wildcats": "Southwest Wildcats Jr.",
+   "path": "University of New Hampshire, captain 2023-24 and 2024-25. ZSC Lions Frauen, Switzerland, 2025-26. Signed with the New York Sirens, April 2026.",
+   "tags": [
+    "Pro: PWHL",
+    "PWHL camp invite"
+   ],
+   "source": "https://unhwildcats.com/sports/womens-ice-hockey/roster/2022-23"
+  },
+  {
+   "name": "Julia Bachetti",
+   "hometown": "Tecumseh, ON",
+   "group": "d1",
+   "wildcats": "Southwest Wildcats, 2018-19 to 2020-21",
+   "path": "Goalie. St. Cloud State (WCHA), 2022-23. University of Maine (Hockey East), 2023-24 to 2025-26. Hockey East Goaltender of the Month, December 2023.",
+   "tags": [],
+   "source": "https://scsuhuskies.com/sports/womens-ice-hockey/roster/julia-bachetti/16910"
+  },
+  {
+   "name": "Brooke Campbell",
+   "hometown": "Essex, ON",
+   "group": "d1",
+   "wildcats": "Southwest Wildcats, 2019-20",
+   "path": "UConn (Hockey East).",
+   "tags": [
+    "PWHL camp invite"
+   ],
+   "source": "https://cksn.ca/2020/11/brooke-campbell-makes-ncaa-commitment-to-connecticut/"
+  },
+  {
+   "name": "Céline Frappier",
+   "hometown": "Tecumseh, ON",
+   "group": "d1",
+   "wildcats": "Southwest Wildcats, 2013-14, captain",
+   "path": "Team Canada U18, silver at the 2016 U18 Worlds. Mercyhurst 2016-17 to 2019-20, then University of Toronto. Gold at the 2023 FISU Winter Universiade. Now Lead Assistant Coach, TMU Bold.",
+   "tags": [
+    "Team Canada",
+    "Coach"
+   ],
+   "source": "https://tmubold.ca/sports/womens-ice-hockey/coaches"
+  },
+  {
+   "name": "Bri Eid",
+   "hometown": "Belle River, ON",
+   "group": "d1",
+   "wildcats": "Southwest Wildcats, 2017-18 to 2019-20",
+   "path": "Long Island University 2021-22 to 2024-25. HC Davos Ladies, Switzerland, 2025-26.",
+   "tags": [
+    "Pro: Switzerland"
+   ],
+   "source": "https://www.eliteprospects.com/player/545480/bri-eid"
+  },
+  {
+   "name": "Kayla Raniwsky",
+   "hometown": "Windsor, ON",
+   "group": "d1",
+   "wildcats": "Southwest Wildcats, 2008-09 to 2010-11",
+   "path": "Niagara 2011-12, St. Lawrence 2012-13 to 2014-15.",
+   "tags": [
+    "Wildcats Head Coach"
+   ],
+   "source": "https://www.eliteprospects.com/player/456603/kayla-raniwsky"
+  },
+  {
+   "name": "Jess Hitchcock",
+   "hometown": "LaSalle, ON",
+   "group": "d1",
+   "wildcats": "Windsor Wildcats 2006-08, Southwest Wildcats 2008-10, captain",
+   "path": "Niagara 2010-11 and 2011-12.",
+   "tags": [
+    "Wildcats Assistant Coach"
+   ],
+   "source": "https://purpleeagles.com/sports/womens-ice-hockey/roster/jessica-hitchcock/134"
+  },
+  {
+   "name": "Sofia Smithson",
+   "hometown": "Windsor, ON",
+   "group": "d1",
+   "wildcats": "Southwest Wildcats, 2015-16 and 2016-17",
+   "path": "College of the Holy Cross 2019-20 to 2022-23, captain her last two seasons.",
+   "tags": [
+    "Captain"
+   ],
+   "source": "https://www.eliteprospects.com/player/389473/sofia-smithson"
+  },
+  {
+   "name": "Kylie St. Louis",
+   "hometown": "Windsor, ON",
+   "group": "d1",
+   "wildcats": "Southwest Wildcats",
+   "path": "Robert Morris University, 2012-13.",
+   "tags": [],
+   "source": "https://rmucolonials.com/sports/womens-ice-hockey/roster/2012-13"
+  },
+  {
+   "name": "Kali Boychuk",
+   "hometown": "Saskatoon, SK",
+   "group": "d1",
+   "wildcats": "Windsor Southwest Wildcats",
+   "path": "Saint Michael's College, 2026-27.",
+   "tags": [
+    "Current college player"
+   ],
+   "source": "https://smcathletics.com/sports/whockey/roster"
+  },
+  {
+   "name": "Lindsey Sorrell",
+   "hometown": "Windsor, ON",
+   "group": "d3",
+   "wildcats": "Southwest Wildcats",
+   "path": "Adrian College, 2020-21 to 2023-24.",
+   "tags": [],
+   "source": "https://adrianbulldogs.com/sports/womens-ice-hockey/roster/2023-24"
+  },
+  {
+   "name": "Addison Bridgewater",
+   "hometown": "Oakville, ON",
+   "group": "d3",
+   "wildcats": "Southwest Wildcats U22 Elite",
+   "path": "SUNY Cortland, forward, freshman in 2026-27.",
+   "tags": [
+    "Current college player"
+   ],
+   "source": "https://www.cortlandreddragons.com/sports/womens-ice-hockey/roster/addison-bridgewater/16415"
+  },
+  {
+   "name": "Abbey Mazzella",
+   "hometown": "Leamington, ON",
+   "group": "d3",
+   "wildcats": "Southwest Wildcats U22 Elite",
+   "path": "Aurora University, 2026-27.",
+   "tags": [
+    "Current college player"
+   ],
+   "source": "https://athletics.aurora.edu/sports/womens-ice-hockey/roster"
+  },
+  {
+   "name": "Teagan Moffat",
+   "hometown": "Essex, ON",
+   "group": "d3",
+   "wildcats": "Southwest Jr. Wildcats",
+   "path": "Aurora University, 2026-27.",
+   "tags": [
+    "Current college player"
+   ],
+   "source": "https://athletics.aurora.edu/sports/womens-ice-hockey/roster"
+  },
+  {
+   "name": "Parker Riley",
+   "hometown": "London, ON",
+   "group": "d3",
+   "wildcats": "Windsor Southwest Wildcats",
+   "path": "SUNY Plattsburgh, 2026-27.",
+   "tags": [
+    "Current college player"
+   ],
+   "source": "https://gocardinalsports.com/sports/womens-ice-hockey/roster"
+  },
+  {
+   "name": "Carissa Hann",
+   "hometown": "LaSalle, ON",
+   "group": "d3",
+   "wildcats": "Southwest Jr. Wildcats",
+   "path": "Wilkes University, 2026-27.",
+   "tags": [
+    "Current college player"
+   ],
+   "source": "https://gowilkesu.com/sports/womens-ice-hockey/roster"
+  },
+  {
+   "name": "Candice Chevalier",
+   "hometown": "Essex, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats, 2008-09 and 2009-10",
+   "path": "University of Windsor Lancers, 2010-11 to 2014-15 (117 games, 72 points).",
+   "tags": [
+    "Wildcats U18AA Head Coach"
+   ],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/candice-chevalier/3047"
+  },
+  {
+   "name": "Ashley Maitre",
+   "hometown": "Maidstone, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats",
+   "path": "University of Windsor Lancers, 2019-20. Now Apprentice Coach, Lancers.",
+   "tags": [
+    "Coach"
+   ],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/coaches"
+  },
+  {
+   "name": "Amy Maitre",
+   "hometown": "Maidstone, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats",
+   "path": "University of Windsor Lancers, 2019-20. Now Assistant Coach, Lancers.",
+   "tags": [
+    "Coach"
+   ],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/coaches"
+  },
+  {
+   "name": "Mikayla Axford",
+   "hometown": "Kingsville, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats, two seasons",
+   "path": "University of Windsor Lancers, 2023-24 and 2024-25.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/mikayla-axford/8686"
+  },
+  {
+   "name": "Payne Oltrop",
+   "hometown": "Amherstburg, ON",
+   "group": "usports",
+   "wildcats": "Windsor Wildcats",
+   "path": "University of Windsor Lancers, goalie, 2026-27.",
+   "tags": [
+    "Current university player"
+   ],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster"
+  },
+  {
+   "name": "Aubrey Lefler",
+   "hometown": "Windsor, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats",
+   "path": "University of Windsor Lancers, 2019-20.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/2019-20"
+  },
+  {
+   "name": "Maggi DeWolf-Russ",
+   "hometown": "Belle River, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats",
+   "path": "University of Windsor Lancers, 2019-20.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/2019-20"
+  },
+  {
+   "name": "Kristen Swiatoschik",
+   "hometown": "LaSalle, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats",
+   "path": "University of Windsor Lancers, goalie, 2019-20.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/2019-20"
+  },
+  {
+   "name": "Avery Mertz",
+   "hometown": "Harrow, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats",
+   "path": "University of Windsor Lancers, 2019-20.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/2019-20"
+  },
+  {
+   "name": "Mia DiNardo",
+   "hometown": "Amherstburg, ON",
+   "group": "usports",
+   "wildcats": "Windsor Wildcats",
+   "path": "University of Windsor Lancers, 2019-20.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/2019-20"
+  },
+  {
+   "name": "Natalie Barrette",
+   "hometown": "Belle River, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats",
+   "path": "University of Windsor Lancers, 2015-16.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/2015-16"
+  },
+  {
+   "name": "Erinn Noseworthy",
+   "hometown": "Appin, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats",
+   "path": "University of Windsor Lancers, 2015-16.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/2015-16"
+  },
+  {
+   "name": "Hanna Slater",
+   "hometown": "LaSalle, ON",
+   "group": "usports",
+   "wildcats": "Southwest Wildcats",
+   "path": "University of Windsor Lancers, goalie, 2015-16.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/2015-16"
+  },
+  {
+   "name": "Krysten Bortolotti",
+   "hometown": "Belle River, ON",
+   "group": "usports",
+   "wildcats": "Windsor Wildcats",
+   "path": "University of Windsor Lancers, 2015-16.",
+   "tags": [],
+   "source": "https://golancers.ca/sports/womens-ice-hockey/roster/2015-16"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "kayla-raniwsky",
+    "name": "Kayla Raniwsky",
+    "role": "Head Coach",
+    "photo": "",
+    "hometown": "Windsor, ON",
+    "wildcatsAlum": true,
+    "playingHistory": [
+      "Southwest Wildcats, 2008-09 to 2010-11. Led the team with 26 goals and 42 points in 36 games in 2010-11.",
+      "Niagara University (NCAA Division I), 2011-12. CHA All-Rookie Team.",
+      "St. Lawrence University (NCAA Division I), 2012-13 to 2014-15."
+    ],
+    "bio": "",
+    "sources": [
+      "https://www.eliteprospects.com/player/456603/kayla-raniwsky",
+      "https://saintsathletics.com/sports/womens-ice-hockey/roster/kayla-raniwsky/1580"
+    ],
+    "tagline": "Wildcats alum · NCAA Division I",
+    "photoOnHold": "photos/coaches/kayla-raniwsky.jpg"
+  },
+  {
+    "id": "jess-hitchcock",
+    "name": "Jess Hitchcock",
+    "role": "Assistant Coach",
+    "photo": "",
+    "hometown": "LaSalle, ON",
+    "wildcatsAlum": true,
+    "playingHistory": [
+      "Windsor Wildcats, 2006-07 and 2007-08.",
+      "Southwest Wildcats, 2008-09 and 2009-10, team captain.",
+      "Niagara University (NCAA Division I), 2010-11 and 2011-12."
+    ],
+    "bio": "",
+    "sources": [
+      "https://purpleeagles.com/sports/womens-ice-hockey/roster/jessica-hitchcock/134",
+      "https://www.eliteprospects.com/player/456594/jessica-hitchcock"
+    ],
+    "tagline": "Wildcats alum · NCAA Division I"
+  },
+  {
+    "id": "kiera-ruddy",
+    "name": "Kiera Ruddy (Jackson)",
+    "role": "Assistant Coach",
+    "photo": "",
+    "hometown": "Wheatley, ON",
+    "wildcatsAlum": false,
+    "playingHistory": [
+      "Southwest Wildcats alumna (PWHL, now OWHL U22 Elite).",
+      "University of Windsor Lancers Track & Field (2018–2022): sprints, relays, and combined events.",
+      "OUA bronze medallist and ranked among the Windsor Lancers’ all-time top 10 women’s track and field performances.",
+      "Four-time U SPORTS Academic All-Canadian.",
+      "Ed Lumley Scholarship and Jerry Slavic Award recipient.",
+      "Windsor Lancers Captains’ Trophy nominee."
+    ],
+    "bio": "Kiera’s coaching philosophy emphasizes hard work, discipline, and accountability. She believes in encouraging athletes to take ownership of their development, find motivation, and approach challenges with a willingness to learn and improve.",
+    "sources": [
+      "https://cksn.ca/2020/07/no-looking-back-for-keira-jackson/",
+      "https://golancers.ca/sports/womens-track-and-field/roster/kiera-jackson/6777"
+    ],
+    "tagline": "Wildcats Alum · U SPORTS Track & Field",
+    "photoOnHold": "photos/coaches/kiera-ruddy.jpg"
+  },
+  {
+    "id": "chays-ruddy",
+    "name": "Chays Ruddy",
+    "role": "Assistant Coach",
+    "photo": "",
+    "hometown": "Cobourg, ON",
+    "wildcatsAlum": false,
+    "playingHistory": [
+      "Junior hockey: Port Hope Panthers (PJHL), Trenton Golden Hawks (OJHL), and Prince George Spruce Kings (BCHL).",
+      "OJHL champion with the Trenton Golden Hawks (2015/16, 2016/17).",
+      "OJHL League Fan Favourite Award (2016/17).",
+      "BCHL Top Defenceman, Iron Man, and Fan Favourite Awards (2017/18).",
+      "University of Windsor Lancers Men’s Hockey (2018–2020), U SPORTS.",
+      "Professional hockey: ECHL (Fort Wayne, Kansas City, Cincinnati, Toledo, Orlando); EIHL (Manchester Storm, UK).",
+      "2023/24 Rob Kenny Memorial Award recipient, Orlando Solar Bears (ECHL), recognizing outstanding commitment to community service.",
+      "Tilbury Bluebirds (NPHL), 2025–present."
+    ],
+    "bio": "Chays draws on his experience across junior, university, and professional hockey to bring a knowledgeable and demanding approach to coaching. Having competed at multiple levels, he understands the work ethic, discipline, and accountability required to succeed. He emphasizes high expectations while adapting his coaching to individual skill levels, challenging athletes to develop, improve, and reach their potential.",
+    "sources": [
+      "https://golancers.ca/sports/mens-ice-hockey/roster/chays-ruddy/6369",
+      "https://todaysnorthumberland.ca/2021/11/04/ruddy-signs-with-echls-fort-wayne-komets/",
+      "https://cycloneshockey.com/news/2022/12/former-komet-chays-ruddy-signs-with-cyclones",
+      "https://orlandosolarbearshockey.com/news/2024/01/solar-bears-sign-defenseman-chays-ruddy",
+      "https://www.nphlhockey.ca/leagues/nphl-metropolitan/players/chays-ruddy"
+    ],
+    "tagline": "U SPORTS Hockey · Former Professional Hockey Player (ECHL)",
+    "photoOnHold": "photos/coaches/chays-ruddy.jpg"
+  },
+  {
+    "id": "derrick-laporte",
+    "name": "Derrick Laporte",
+    "role": "Goalie Coach",
+    "photo": "",
+    "hometown": "",
+    "wildcatsAlum": false,
+    "playingHistory": [
+      "University of Windsor Lancers (U SPORTS), goaltender",
+      "Junior hockey: Lakeshore Canadiens and Essex 73's"
+    ],
+    "bio": "Derrick founded Major League Goaltending in 2019 because he saw a need for more individualized goalie development, with a focus on movement skills, puckhandling and rebound control. His philosophy is that coaches should have high-level playing experience and real instructional credentials. A Grade 8 teacher since 2005 and a Hockey Canada certified Level 3 goalie coach, he knows how to reach and motivate young athletes and plan for their emotional, social and physical development.",
+    "sources": [
+      "https://majorleaguegoaltending.com/our-coaches/"
+    ],
+    "tagline": "Director, Major League Goaltending",
+    "photoOnHold": "photos/coaches/derrick-laporte.jpg"
+  }
+]

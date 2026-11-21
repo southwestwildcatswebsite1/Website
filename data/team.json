@@ -1,0 +1,267 @@
+{
+ "previewMode": false,
+ "teamName": "Southwest Wildcats",
+ "division": "U22 Elite",
+ "season": "2026-27",
+ "league": "OWHL U22 Elite",
+ "founded": 2004,
+ "tagline": "Elite women's hockey in Windsor-Essex since 2004.",
+ "intro": "We play in the OWHL U22 Elite division and develop players who go on to NCAA, U Sports and professional hockey.",
+ "homeRink": "Forest Glade Arena, Rink B, Windsor",
+ "homeRinkCheck": false,
+ "association": "Sun Parlour Girls Hockey Association",
+ "links": {
+  "officialSchedule": "https://spfhahockey.com/Teams/1121",
+  "youtube": "https://www.youtube.com/@U22SouthwestWildcatsJunior",
+  "instagram": "https://www.instagram.com/swwildcats",
+  "association": "https://spfhahockey.com",
+  "associationFacebook": "https://www.facebook.com/SPFHA"
+ },
+ "contactEmail": "southwestu22elite@gmail.com",
+ "recruitFormUrl": "",
+ "sponsorFormUrl": "",
+ "streamCredit": "Home games are streamed live from Forest Glade Arena, with commentary and filming by Scott Brunet of Streaming with Scott.",
+ "reel": {
+  "video": "videos/team-reel.mp4",
+  "poster": "videos/team-reel.jpg",
+  "caption": "All 19 Wildcats of 2026-27 in jersey order, from the player intro shoot."
+ },
+ "featuredVideos": [],
+ "teamPhoto": {
+  "image": "photos/team-2026-27.jpg",
+  "alt": "The 2026-27 Southwest Wildcats U22 Elite team on the ice in their black, red and white jerseys"
+ },
+ "gallery": [
+  {
+   "image": "photos/gallery/cooper-skate.jpg",
+   "alt": "Captain Cassidy Cooper striking a pose on the ice",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/couture-kneel.jpg",
+   "alt": "Kiley Couture, #9, kneeling with her stick raised",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/larocque-skate.jpg",
+   "alt": "Tristan Larocque, #11, on the ice",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/veselinovic-arms.jpg",
+   "alt": "Marina Veselinovic, #13, arms crossed",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/pruim-point.jpg",
+   "alt": "Izzy Pruim, #16, pointing to the Wildcats crest",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/piroli-shoulders.jpg",
+   "alt": "Elizabeth Piroli, #18, with her stick across her shoulders",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/warren-front.jpg",
+   "alt": "Ella Warren, #19",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/bella-froio-point.jpg",
+   "alt": "Bella Froio, #22, pointing at the camera",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/grech-kick.jpg",
+   "alt": "Megan Grech, #23, kicking up a skate on the ice",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/holmes-ready.jpg",
+   "alt": "Carly Holmes, #24, in a ready stance",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/myers-crouch.jpg",
+   "alt": "Jocelyn Myers, #29, leaning on her stick at centre ice",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/wall-stance.jpg",
+   "alt": "Evelyn Wall, #31, in goalie stance",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/harder-butterfly.jpg",
+   "alt": "Abby Harder, #33, in goalie stance",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/brown-stick.jpg",
+   "alt": "Lisane Brown, #49, holding her stick",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/maleyko-crouch.jpg",
+   "alt": "Emily Maleyko, #72, leaning on her stick at centre ice",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/thompson-crouch.jpg",
+   "alt": "Natalie Thompson, #86, in a ready stance",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/players/lea-giroux.jpg",
+   "alt": "Lea Giroux, #88, assistant captain",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/gallery/froio-stick.jpg",
+   "alt": "Sophia Froio, #93, holding her stick out",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/players/gallery/maddy-turnbull-3.jpg",
+   "alt": "Maddy Turnbull, #95, on the ice",
+   "album": "Media Day"
+  },
+  {
+   "image": "photos/team-2026-27.jpg",
+   "alt": "The 2026-27 Southwest Wildcats U22 Elite team on the ice in their black, red and white jerseys",
+   "album": "Group Photos",
+   "wide": true,
+   "label": "2026–2027 Team"
+  },
+  {
+   "image": "photos/leadership-2026-27.jpg",
+   "alt": "The 2026-27 leadership group: captain and assistant captains",
+   "album": "Group Photos",
+   "wide": true,
+   "label": "Leadership Team"
+  },
+  {
+   "image": "photos/seniors-2027.jpg",
+   "alt": "The Class of 2027 seniors",
+   "album": "Group Photos",
+   "wide": true,
+   "label": "2027 Graduating Seniors"
+  },
+  {
+   "video": "videos/gallery/training-camp-2026.mp4",
+   "poster": "videos/gallery/training-camp-2026.jpg",
+   "album": "Training Camp",
+   "tall": true,
+   "alt": "Wildcats training camp 2026: players in practice jerseys running drills and goalies working in net"
+  }
+ ],
+ "recentGame": {
+  "image": "",
+  "title": "From our latest game",
+  "date": "November 15, 2026",
+  "caption": "Wildcats vs Burlington Barracudas.",
+  "link": "https://youtu.be/-Sr1DTcrIls?t=202",
+  "linkLabel": "Watch the full game on YouTube",
+  "youtubeId": "-Sr1DTcrIls",
+  "start": 202,
+  "end": 235
+ },
+ "instagramLatest": {
+  "url": "https://www.instagram.com/p/DcO4ocQFEbr/",
+  "image": "photos/instagram-latest.jpg",
+  "caption": "Our 2026-27 season schedule, pinned at the top of our Instagram. Tap to see every game."
+ },
+ "leadership": {
+  "image": "photos/leadership-2026-27.jpg",
+  "alt": "Wildcats 2026-27 leadership group: Couture, Giroux, Cooper, Grech and Larocque",
+  "title": "Our leadership group",
+  "members": [
+   {
+    "id": "cassidy-cooper",
+    "role": "Captain"
+   },
+   {
+    "id": "kiley-couture",
+    "role": "Assistant Captain"
+   },
+   {
+    "id": "tristan-larocque",
+    "role": "Assistant Captain"
+   },
+   {
+    "id": "megan-grech",
+    "role": "Assistant Captain"
+   },
+   {
+    "id": "lea-giroux",
+    "role": "Assistant Captain"
+   }
+  ]
+ },
+ "seniors": {
+  "image": "photos/seniors-2027.jpg",
+  "alt": "The Wildcats graduating class of 2027",
+  "title": "Class of 2027",
+  "members": [
+   {
+    "id": "cassidy-cooper"
+   },
+   {
+    "id": "kiley-couture"
+   },
+   {
+    "id": "tristan-larocque"
+   },
+   {
+    "id": "izzy-pruim"
+   },
+   {
+    "id": "ella-warren"
+   },
+   {
+    "id": "megan-grech"
+   },
+   {
+    "id": "jocelyn-myers"
+   },
+   {
+    "id": "evelyn-wall"
+   },
+   {
+    "id": "natalie-thompson"
+   },
+   {
+    "id": "lea-giroux"
+   },
+   {
+    "id": "maddy-turnbull"
+   }
+  ]
+ },
+ "liveStats": {
+  "url": "https://www.owhlu22elite.ca/team/14459/1594/14813/393699/statistics",
+  "label": "OWHL U22 Elite"
+ },
+ "homeRinkAddress": "3205 Forest Glade Drive, Windsor, Ontario N8R 1L6",
+ "homeRinkSource": "https://www.citywindsor.ca/residents/recreation/recreation-and-culture-facilities/facilities-for-rent/forest-glade-arena",
+ "galleryAlbums": [
+  "Media Day",
+  "Group Photos",
+  "Training Camp",
+  "Game Day",
+  "Team & Community"
+ ],
+ "mediaCredit": "Media Day photos and videos by",
+ "mediaCreditName": "Claro Media",
+ "mediaCreditUrl": "https://jonathonclaro.myportfolio.com/",
+ "galleryHidden": [
+  "photos/gallery/brown-back.jpg",
+  "photos/gallery/brown-celebrate.jpg",
+  "photos/gallery/cooper-back.jpg",
+  "photos/gallery/couture-back.jpg",
+  "photos/gallery/myers-back.jpg",
+  "photos/gallery/thompson-back.jpg",
+  "photos/gallery/turnbull-full.jpg"
+ ]
+}
