@@ -733,6 +733,11 @@
   "introVideo": "videos/lea-giroux.mp4",
   "video": "",
   "photo": "photos/players/lea-giroux.jpg",
+  "gallery": [
+   "photos/players/gallery/lea-giroux-1.jpg",
+   "photos/players/gallery/lea-giroux-2.jpg",
+   "photos/players/gallery/lea-giroux-3.jpg"
+  ],
   "positionDetail": "Left wing",
   "introPoster": "videos/lea-giroux.jpg",
   "currentSchool": "Graduated 2026; taking a gap year",
