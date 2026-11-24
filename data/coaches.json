@@ -64,7 +64,7 @@
     "id": "chays-ruddy",
     "name": "Chays Ruddy",
     "role": "Assistant Coach",
-    "photo": "",
+    "photo": "photos/coaches/chays-ruddy.jpg",
     "hometown": "Cobourg, ON",
     "wildcatsAlum": false,
     "playingHistory": [
@@ -85,8 +85,7 @@
       "https://orlandosolarbearshockey.com/news/2024/01/solar-bears-sign-defenseman-chays-ruddy",
       "https://www.nphlhockey.ca/leagues/nphl-metropolitan/players/chays-ruddy"
     ],
-    "tagline": "U SPORTS Hockey · Former Professional Hockey Player (ECHL)",
-    "photoOnHold": "photos/coaches/chays-ruddy.jpg"
+    "tagline": "U SPORTS Hockey · Former Professional Hockey Player (ECHL)"
   },
   {
     "id": "derrick-laporte",
