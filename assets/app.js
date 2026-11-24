@@ -353,7 +353,7 @@
       ([c.hometown, c.tagline].filter(Boolean).length ? '<p class="muted">' + esc([c.hometown, c.tagline].filter(Boolean).join(" · ")) + "</p>" : "") + "</div>" +
       '<div class="stack"><h3>Athletic background</h3>' + (c.playingHistory.length ? '<ul class="history">' + c.playingHistory.map(function (h) { return "<li>" + esc(h) + "</li>"; }).join("") + "</ul>" : '<p class="' + (preview() ? 'empty-line">To come.' : 'muted">Coming soon.') + '</p>') + "</div>" +
       '<div class="stack"><h3>Coaching philosophy</h3>' + (c.bio ? "<p>" + esc(c.bio) + "</p>" : (preview() ? '<p class="empty-line">A short bio and coaching philosophy, 2 to 3 sentences, goes here.</p>' : '<p class="muted">Coming soon.</p>')) + "</div>" +
-      (c.sources.length ? '<p class="muted" style="font-size:.875rem">Sources: ' + c.sources.map(function (s, i) { return ext(s, "link " + (i + 1)); }).join(", ") + "</p>" : "") +
+      (c.sources.length ? '<p class="muted" style="font-size:.875rem">' + (c.sourceLabels ? "" : "Sources: ") + c.sources.map(function (s, i) { return ext(s, (c.sourceLabels && c.sourceLabels[i]) || "link " + (i + 1)); }).join(", ") + "</p>" : "") +
       "</div></div></div></section>";
   }
 
