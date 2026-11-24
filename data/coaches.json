@@ -91,7 +91,7 @@
     "id": "derrick-laporte",
     "name": "Derrick Laporte",
     "role": "Goalie Coach",
-    "photo": "",
+    "photo": "photos/coaches/derrick-laporte.jpg",
     "hometown": "",
     "wildcatsAlum": false,
     "playingHistory": [
@@ -102,7 +102,6 @@
     "sources": [
       "https://majorleaguegoaltending.com/our-coaches/"
     ],
-    "tagline": "Director, Major League Goaltending",
-    "photoOnHold": "photos/coaches/derrick-laporte.jpg"
+    "tagline": "Director, Major League Goaltending"
   }
 ]
